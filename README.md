@@ -1,2 +1,4 @@
 # odin-recipes
-Basic Recipe Website using HTML from The Odin Project
+Basic Recipe Website created using HTML.
+
+Skills Demonstrated: HTML
